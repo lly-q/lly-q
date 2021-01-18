@@ -6,6 +6,7 @@ MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{E1A2B511-67E0-433A-A606-EC4744782165}"
 	ProjectSection(SolutionItems) = preProject
 		..\..\..\Downloads\hiper25-main (1)\hiper25-main\README.md = ..\..\..\Downloads\hiper25-main (1)\hiper25-main\README.md
+		README.md = README.md
 	EndProjectSection
 EndProject
 Global
