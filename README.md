@@ -1,7 +1,7 @@
 ﻿<h4 align="center"><samp> 欢迎来到大鸟转转酒吧 </samp></h4>
 
 <p align="center">
-  <img width="500" src="http://tiebapic.baidu.com/forum/w%3D580/sign=2a7384da39dda3cc0be4b82831e83905/65a32f31e924b899c844647d79061d950b7bf693.gif">
+  <img width="150" src="http://tiebapic.baidu.com/forum/w%3D580/sign=2a7384da39dda3cc0be4b82831e83905/65a32f31e924b899c844647d79061d950b7bf693.gif">
 </p>
 
 
