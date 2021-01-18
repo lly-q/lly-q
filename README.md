@@ -4,7 +4,7 @@
   <img width="150" src="http://tiebapic.baidu.com/forum/w%3D580/sign=2a7384da39dda3cc0be4b82831e83905/65a32f31e924b899c844647d79061d950b7bf693.gif">
 </p>
 
-<div align=center><img src="https://github-readme-stats.vercel.app/api?username=loserq&show_icons=true"></div>
+<div align=center><img height="150" src="https://github-readme-stats.vercel.app/api?username=loserq&show_icons=true"></div>
 <!--
 **ari-hacks/ari-hacks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
