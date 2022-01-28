@@ -1,7 +1,7 @@
-﻿<h2 align="center"><samp> 欢迎来到大鸟转转酒吧 </samp></h2>
+﻿<h2 align="center"><samp> 向那些被我伤害过的人道歉，Sorry </samp></h2>
 
 <p align="center">
-  <img width="200" height="150" src="http://tiebapic.baidu.com/forum/w%3D580/sign=2a7384da39dda3cc0be4b82831e83905/65a32f31e924b899c844647d79061d950b7bf693.gif">
+  <img width="200" height="150" src="https://th.bing.com/th/id/R.d2582ca5e0dee2813bf36b80e6cc2266?rik=czwMj1KuGcasbw&riu=http%3a%2f%2fpic.ntimg.cn%2ffile%2f20200425%2f31239175_093506083000_2.jpg&ehk=WTZUc9XCWr1D%2fajmswVmc7PZ0qGouvZz%2fI8pVMaju5g%3d&risl=&pid=ImgRaw&r=0">
 </p>
 
 <div align=center><img  src="https://github-readme-stats.vercel.app/api?username=loserq&show_icons=true"></div>
