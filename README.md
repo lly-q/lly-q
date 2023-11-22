@@ -1,10 +1,9 @@
 ### Hi there 👋
 
-嘿！你竟然看到了这里，我是 **[Keldos](https://keldos.me)**，交个朋友吧~ (/ω＼)
+嘿！你竟然看到了这里，我是 **lly-q**，交个朋友吧~ (/ω＼)
 
-- 略懂点前端！不过我更愿意把自己看做设计师，产品、界面、交互设计，blahblah…<br />
+- &*(&*)_*^*&JIU*&(^(&^(，blahblah…<br />
 - ![Kotlin](https://img.shields.io/badge/-Kotlin-1572B6?logo=kotlin&logoColor=fff)
-  ![Sass](https://img.shields.io/badge/-Sass-cc6699?logo=sass&logoColor=fff)
   ![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=HTML5&logoColor=fff)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=fff)
   ![git](https://img.shields.io/badge/-git-F05032?logo=git&logoColor=fff)  
