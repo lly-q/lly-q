@@ -9,7 +9,7 @@
   ![git](https://img.shields.io/badge/-git-F05032?logo=git&logoColor=fff)  
   ![Python](https://img.shields.io/badge/-Python-3776ab?logo=python&logoColor=fff)
   ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual%20studio%20code&logoColor=fff) <br />
-- Undergraduate student in [MBR](http://www.peizheng.edu.cn/index.htm) from [PeiZheng University](https://www.zju.edu.cn/english/) <br />
+- Undergraduate student in [MBA](http://www.peizheng.edu.cn/index.htm) from [PeiZheng University](https://www.zju.edu.cn/english/) <br />
 - [培正学院](http://www.peizheng.edu.cn/index.htm) 本科毕业~
 - 我的专业是 _工商管理_，所以工商管理学生会写代码很合理吧 (´・ω・`)
 
